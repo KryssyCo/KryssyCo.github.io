@@ -1,3 +1,5 @@
+2019-06-27-Trends-in-Foster-Care-2008-2017.md
+
 Trends in foster care and adoption... or the lack thereof
 
 Nothing can change if everything stays the same. 
@@ -10,7 +12,7 @@ We’ve heard all of the sayings, how do they apply to foster care and adoptabil
 
 Let's take a look at the data from 2008 to 2017. 
 
-bigimg: 'Kids in Foster Care.png'
+bigimg:'Kids in Foster Care.png'
 
 
 You can explore the data sets and my blog at the links below:
