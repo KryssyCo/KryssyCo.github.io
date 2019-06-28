@@ -17,7 +17,7 @@ bigimg: 'Kids in Foster Care.png'
 
 You can explore the data sets and my blog at the links below:
 
-[My Github page](kryssyco@github.io)
+[My Github Page](kryssyco.github.io)
 
 [Link Text]https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/national_afcars_trends_08thru17.updated2.csv
 
