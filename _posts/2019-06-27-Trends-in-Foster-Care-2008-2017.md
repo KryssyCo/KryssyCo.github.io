@@ -1,5 +1,3 @@
-2019-06-27-Trends-in-Foster-Care-2008-2017.md
-
 Trends in foster care and adoption... or the lack thereof
 
 Nothing can change if everything stays the same. 
