@@ -19,18 +19,13 @@ You can explore the data sets and my blog at the links below:
 
 kryssyco@github.io
 
-https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/
-national_afcars_trends_08thru17.updated2.csv
+https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/national_afcars_trends_08thru17.updated2.csv
 
-https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/
-Krista_Shepard_DS5_Final_Notebook_Children_in_Foster_Care.ipynb
+https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-BlogPost/blob/master/Krista_Shepard_DS5_Final_Notebook_Children_in_Foster_Care.ipynb
 
-https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/
-SISO%20National.csv
+https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/SISO%20National.csv
 
-https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/
-Child_Abuse_Data_Sets.ipynb
-
+https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Child_Abuse_Data_Sets.ipynb
 
 https://medium.com/@kjshepard70/my-first-project-f649d36716f5?postPublishedType=initial
 
