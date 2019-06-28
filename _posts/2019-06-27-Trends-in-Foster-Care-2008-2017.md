@@ -10,6 +10,7 @@ We’ve heard all of the sayings, how do they apply to foster care and adoptabil
 
 Let's take a look at the data from 2008 to 2017. 
 
+Format: ![Alt Text](https://github.com/KryssyCo/KryssyCo.github.io/blob/master/img/Kids%20in%20Foster%20Care.png)
 
 You can explore the data sets and my blog at the links below:
 
