@@ -18,7 +18,7 @@ You can explore the data sets and my blog at the links below:
 
 [Foster Care Data](https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/national_afcars_trends_08thru17.updated2.csv)
 
-[Foster Care Notebook](https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-BlogPost/blob/master/Krista_Shepard_DS5_Final_Notebook_Children_in_Foster_Care.ipynb)
+[Foster Care Notebook](https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/Krista_Shepard_DS5_Final_Notebook_Children_in_Foster_Care.ipynb)
 
 [National Child Abuse Data 2017](https://github.com/KryssyCo/DS-Unit-1-Sprint-5-Data-Storytelling-Blog-Post/blob/master/SISO%20National.csv)
 
