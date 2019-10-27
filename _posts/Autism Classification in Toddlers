@@ -1,0 +1,19 @@
+{{ page.date }}
+
+
+Beginning this porject, I developed the hypothesis that by using the date provided by Autism Spectrum Disorders Test App, we can predict the probability of a toddler < 36 months showing or developing ASD traits.
+
+I used a variety of the Q-Chat Questions 1 thru 10 and demographics per observation to design a simple prediction model. With the right model I hope to predict the probability of identifying a toddler showing Autism Spectrum Disorder traits.
+
+I believed that by identifying the possibility of autism early parents and/or guardian can consider taking steps to identify special needs prior to a child entering School. This app can be a valuable tool in making that identification.
+
+After running the data on a Gradient Boost Classifier and obtaining a roc/auc score on the validation set and the test set, using only the aforementioned features. Both seemed to still have some overfitting because the score was so high 99.7% and 99% respectively.
+
+The results suggest the need to use all 10 questions to be able to make an accurate prediction using the app, because the baseline scores were better across all models.
+
+Finally, I think it is safe to argue that with earlier classification and diagnosis, a child may have a better educational experience both socially and on a personal success level. In addition, their parents can gain the necessary help and education to help their children reach their full potential.
+
+You can explore the data sets and my blog at the links below:
+
+[My Blog](https://medium.com/@kjshepard70/autism-classification-in-toddlers-94958253d824)
+[The Data Set and Notebook](https://github.com/KryssyCo/Predicting-the-Probability-of-ASD-in-Toddlers)
